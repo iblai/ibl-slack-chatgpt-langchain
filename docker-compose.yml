@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    command: bash -c 'python manage.py runserver 0.0.0.0:8000'
+    expose:
+      - 8000
+    environment:
+      - DEBUG=1
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.django.rule=Host(`4e43-38-25-17-68.sa.ngrok.io`)"
+
+  traefik:
+    image: traefik:v3.0
+    ports:
+      - 8008:80
+      - 8081:8080
+    volumes:
+      - "$PWD/traefik.dev.toml:/etc/traefik/traefik.toml"
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"

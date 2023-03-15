@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    command: bash -c 'gunicorn --bind 0.0.0.0:8000 iblGpt.wsgi'
+    expose:  # new
+      - 8000
+    environment:
+      - DEBUG=0
+      - DJANGO_ALLOWED_HOSTS=slack.mentor.ibl.ai
+    labels:  # new
+      - "traefik.enable=true"
+      - "traefik.http.routers.django.rule=Host(`slack.mentor.ibl.ai`)"
+      - "traefik.http.routers.django.tls=true"
+      - "traefik.http.routers.django.tls.certresolver=letsencrypt"
+
+  traefik:  # new
+    build:
+      context: .
+      dockerfile: Dockerfile.traefik
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"
+      - "./traefik-public-certificates:/certificates"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.dashboard.tls=true"
+      - "traefik.http.routers.dashboard.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.dashboard.service=api@internal"
+      - "traefik.http.routers.dashboard.middlewares=auth"
+
+volumes:
+  traefik-public-certificates:
