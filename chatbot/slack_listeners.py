@@ -22,10 +22,14 @@ def handle_app_mentions(logger, event, say):
     logger.info(event)
     say(f"Hi there, <@{event['user']}>")
 
+
 @app.event("message")
 def event_message(body, say, logger):
     logger.info(body)
     message = body["event"]["text"]
-    response = requests.post("http://api.mentor.ibl.ai/ask/", json={"question": message, "database": "default", "with_sources": "true"})
+    response = requests.post(
+        "http://api.mentor.ibl.ai/ask/",
+        json={"question": message, "database": "default", "with_sources": "true"},
+    )
     body = response.json()
     say(body["answer"])

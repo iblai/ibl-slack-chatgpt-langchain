@@ -1,6 +1,6 @@
 from django.urls import path
 
-from views import slack_events_handler
+from chatbot.views import slack_events_handler
 
 
 urlpatterns = [
