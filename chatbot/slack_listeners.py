@@ -1,8 +1,11 @@
 import logging
 import os
+from dotenv import load_dotenv
 import requests
 
 from slack_bolt import App
+
+load_dotenv()
 
 logger = logging.getLogger(__name__)
 
@@ -20,7 +23,7 @@ def handle_app_mentions(logger, event, say):
     say(f"Hi there, <@{event['user']}>")
 
 @app.event("message")
-def event_test(body, say, logger):
+def event_message(body, say, logger):
     logger.info(body)
     message = body["event"]["text"]
     response = requests.post("http://api.mentor.ibl.ai/ask/", json={"question": message, "database": "default", "with_sources": "true"})
