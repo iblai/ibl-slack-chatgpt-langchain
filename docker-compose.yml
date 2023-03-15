@@ -6,8 +6,8 @@ services:
     command: bash -c 'python manage.py runserver 0.0.0.0:8000'
     expose:
       - 8000
-    environment:
-      - DEBUG=1
+    env_file:
+      - .env
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.django.rule=Host(`4e43-38-25-17-68.sa.ngrok.io`)"

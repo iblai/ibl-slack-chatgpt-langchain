@@ -8,9 +8,8 @@ services:
     command: bash -c 'gunicorn --bind 0.0.0.0:8000 iblGpt.wsgi'
     expose:  # new
       - 8000
-    environment:
-      - DEBUG=0
-      - DJANGO_ALLOWED_HOSTS=slack.mentor.ibl.ai
+    env_file:
+      - .env
     labels:  # new
       - "traefik.enable=true"
       - "traefik.http.routers.django.rule=Host(`slack.mentor.ibl.ai`)"
