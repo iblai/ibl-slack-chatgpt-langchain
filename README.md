@@ -26,8 +26,6 @@ docker-compose up -d
 docker-compose -f docker-compose-prod.yml up -d
 ```
 
-````
-
 ### Restart Containers
 
 #### Bring down
@@ -84,4 +82,7 @@ Following, go to "Event Subscriptions" option and set the URL and the bot events
 
 Finally, go to "App Home" option and activate the following options
 ![Set home options](/img/set-home-options.png)
-````
+
+```
+
+```
