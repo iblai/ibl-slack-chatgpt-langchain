@@ -1,37 +1,42 @@
 version: '3.8'
 
 services:
-  web:
+  api:
     build:
       context: .
       dockerfile: Dockerfile.prod
-    command: bash -c 'gunicorn --bind 0.0.0.0:8000 iblGpt.wsgi'
-    expose:  # new
-      - 8000
+    restart: unless-stopped
     env_file:
       - .env
-    labels:  # new
-      - "traefik.enable=true"
-      - "traefik.http.routers.django.rule=Host(`slack.mentor.ibl.ai`)"
-      - "traefik.http.routers.django.tls=true"
-      - "traefik.http.routers.django.tls.certresolver=letsencrypt"
-
-  traefik:  # new
-    build:
-      context: .
-      dockerfile: Dockerfile.traefik
+    command: gunicorn -w 12 wsgi:application -b 0.0.0.0:${PORT} --limit-request-line 0
+    networks:
+      - ibl-chatbot
+      - traefik-proxy
     ports:
-      - 80:80
-      - 443:443
-    volumes:
-      - "/var/run/docker.sock:/var/run/docker.sock:ro"
-      - "./traefik-public-certificates:/certificates"
+      - "${PORT}:${PORT}"
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.dashboard.tls=true"
-      - "traefik.http.routers.dashboard.tls.certresolver=letsencrypt"
-      - "traefik.http.routers.dashboard.service=api@internal"
-      - "traefik.http.routers.dashboard.middlewares=auth"
+      - "traefik.docker.network=traefik-proxy"
+      ## HTTP
+      - "traefik.http.routers.${TRAEFIK_APP_ID}.entrypoints=web"
+      - "traefik.http.routers.${TRAEFIK_APP_ID}.rule=Host(`${HOST}`)"
+      - "traefik.http.routers.${TRAEFIK_APP_ID}.service=${TRAEFIK_APP_ID}-secure"
+      - "traefik.http.services.${TRAEFIK_APP_ID}.loadbalancer.server.port=${PORT}"
 
-volumes:
-  traefik-public-certificates:
+      # Redirect
+      - "traefik.http.middlewares.https-redirect.redirectscheme.scheme=https"
+      - "traefik.http.routers.${TRAEFIK_APP_ID}.middlewares=https-redirect"
+
+      ## HTTPS
+      - "traefik.http.routers.${TRAEFIK_APP_ID}-secure.entrypoints=websecure"
+      - "traefik.http.routers.${TRAEFIK_APP_ID}-secure.rule=Host(`${HOST}`)"
+      - "traefik.http.routers.${TRAEFIK_APP_ID}-secure.tls=${HTTPS_ROUTER_TLS_MODE}"
+      - "traefik.http.routers.${TRAEFIK_APP_ID}-secure.tls.certresolver=default"
+      - "traefik.http.routers.${TRAEFIK_APP_ID}-secure.service=${TRAEFIK_APP_ID}-secure"
+      - "traefik.http.services.${TRAEFIK_APP_ID}-secure.loadbalancer.server.port=${PORT}"
+
+networks:
+  ibl-chatbot:
+    driver: bridge
+  traefik-proxy:
+    external: true
