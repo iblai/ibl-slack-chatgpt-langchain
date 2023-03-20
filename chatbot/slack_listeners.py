@@ -1,11 +1,14 @@
 import logging
-import os
 from dotenv import load_dotenv
 import requests
 from langchain.llms import OpenAIChat
+from langchain.chains.question_answering import load_qa_chain
+from langchain.docstore.document import Document
 from iblGpt.settings import SLACK_BOT_TOKEN, SLACK_SIGNING_SECRET
 
+
 from slack_bolt import App
+from chatbot.models import MessageClient, MessageEntry
 
 load_dotenv()
 
@@ -42,6 +45,25 @@ def send_mentor_message(ack, respond, command):
 def event_message(body, say, logger):
     logger.info(body)
     message = body["event"]["text"]
-    llm = OpenAIChat(model_name="gpt-4")
-    response = llm(message)
+    docs = []
+    if body["event"]["channel_type"] == "im":
+        conversation_id = body["event"]["user"]
+    else:
+        conversation_id = body["event"]["channel"]
+    client = MessageClient.objects.get_or_create(conversation_id=conversation_id)[0]
+    history = client.get_history()
+    if history:
+        docs = [Document(page_content=history)]
+        print(history)
+    chain = load_qa_chain(OpenAIChat(model_name="gpt-4"), chain_type="stuff")
+    try:
+        result = chain(
+            {"input_documents": docs, "question": message}, return_only_outputs=True
+        )
+    except:
+        result = {"output_text": "We are very busy right now :( Please try again."}
+    response = result["output_text"].strip()
+    MessageEntry.objects.create(
+        question=message, answer=result["output_text"], client=client
+    )
     say(response)
