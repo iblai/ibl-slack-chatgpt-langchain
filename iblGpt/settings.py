@@ -127,6 +127,6 @@ STATIC_URL = "static/"
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
-SLACK_BOT_TOKEN = os.environ["SLACK_BOT_TOKEN"]
+SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN", None)
 
-SLACK_SIGNING_SECRET = os.environ["SLACK_SIGNING_SECRET"]
+SLACK_SIGNING_SECRET = os.environ.get("SLACK_SIGNING_SECRET", None)
