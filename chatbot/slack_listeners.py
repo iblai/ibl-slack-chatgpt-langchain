@@ -54,7 +54,6 @@ def event_message(body, say, logger):
     history = client.get_history()
     if history:
         docs = [Document(page_content=history)]
-        print(history)
     chain = load_qa_chain(OpenAIChat(model_name="gpt-4"), chain_type="stuff")
     try:
         result = chain(
