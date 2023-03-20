@@ -32,7 +32,7 @@ def handle_app_mentions(logger, event, say):
 def send_mentor_message(ack, respond, command):
     # Acknowledge command request
     ack()
-    message = command['text']
+    message = command["text"]
     response = requests.post(
         "http://api.mentor.ibl.ai/ask/",
         json={"question": message, "database": "default", "with_sources": "true"},

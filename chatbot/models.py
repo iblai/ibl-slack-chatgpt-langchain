@@ -1,6 +1,7 @@
 from django.db import models
 from chatbot.utils import count_tokens
 
+
 class MessageClient(models.Model):
     conversation_id = models.TextField()
 
@@ -15,7 +16,6 @@ class MessageClient(models.Model):
         if history:
             history = start + history
         return history
-    
 
 
 class MessageEntry(models.Model):
