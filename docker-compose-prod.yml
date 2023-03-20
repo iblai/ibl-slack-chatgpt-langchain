@@ -8,7 +8,7 @@ services:
     restart: unless-stopped
     env_file:
       - .env
-    command: gunicorn -w 12 iblGpt.wsgi -b 0.0.0.0:${PORT} --limit-request-line 0
+    command: bash -c 'python manage.py migrate && gunicorn -w 12 iblGpt.wsgi -b 0.0.0.0:${PORT} --limit-request-line 0'
     networks:
       - ibl-chatbot
       - traefik-proxy
