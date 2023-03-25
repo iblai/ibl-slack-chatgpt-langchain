@@ -1,10 +1,10 @@
 # IBL Mentor Slack Bot
 
-Slack bot developed with slack bolt
+Slack bot developed with Slack Bolt, LangChain and ChatGPT (GPT-4).
 
 ## Dependency
 
-- Docker and Docker compose installed
+- Docker and Docker Compose installed
 
 ## Define environment variables
 
@@ -45,6 +45,8 @@ docker-compose up -d
 To use this slack bot you need to create an app into https://api.slack.com.
 
 First, you need to login into api.slack.com
+
+All secrets below have been rotated and are just for demonstration.
 
 ### Create Slack App
 
