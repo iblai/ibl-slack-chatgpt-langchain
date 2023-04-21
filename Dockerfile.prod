@@ -51,6 +51,7 @@ COPY . $APP_HOME
 
 # chown all the files to the app user
 RUN chown -R app:app $APP_HOME
+RUN chown -R app:app /usr/local/lib/python3.11/site-packages/llama_index/readers/llamahub_modules/
 
 # change to the app user
 USER app
