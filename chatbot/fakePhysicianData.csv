@@ -1,0 +1,440 @@
+Data Platform,Physician ID,First Name,Last Name,Gender,Age,Specialty,Years of Experience,Medical School,Board Certification,Referrals per Year
+Osan3Alpha,1,James,Smith,M,45,Cardiology,15,Harvard Medical School,American Board of Internal Medicine,44
+Osan3Alpha,2,Emily,Davis,F,38,Dermatology,10,Stanford University School of Medicine,American Board of Dermatology,81
+Osan3Alpha,3,Michael,Johnson,M,51,Neurosurgery,20,Johns Hopkins University School of Medicine,American Board of Neurological Surgery,43
+Osan3Alpha,4,Olivia,Taylor,F,35,Endocrinology,7,University of Pennsylvania Perelman School of Medicine,American Board of Internal Medicine,41
+Osan3Alpha,5,David,Wilson,M,46,Orthopedic Surgery,16,University of California School of Medicine in San Francisco,American Board of Orthopaedic Surgery,31
+Osan3Alpha,6,Emma,Moore,F,33,Family Medicine,6,Washington University School of Medicine in St. Louis,American Board of Family Medicine,122
+Osan3Alpha,7,William,Brown,M,55,Gastroenterology,25,Columbia University Vagelos College of Physicians and Surgeons,American Board of Internal Medicine,384
+Osan3Alpha,8,Charlotte,Jackson,F,41,Pediatrics,12,New York University School of Medicine,American Board of Pediatrics,51
+Osan3Alpha,9,Benjamin,Harris,M,39,Psychiatry,10,University of Michigan Medical School,American Board of Psychiatry and Neurology,73
+Osan3Alpha,10,Sophia,Garcia,F,36,Obstetrics and Gynecology,8,Yale School of Medicine,American Board of Obstetrics and Gynecology,41
+Osan3Alpha,11,Noah,Thomas,M,52,Oncology,20,University of Chicago Pritzker School of Medicine,American Board of Internal Medicine,292
+Osan3Alpha,12,Isabella,Robinson,F,34,Neurology,7,Duke University School of Medicine,American Board of Psychiatry and Neurology,55
+Osan3Alpha,13,Lucas,Young,M,43,Rheumatology,13,University of California David Geffen School of Medicine in Los Angeles,American Board of Internal Medicine,87
+Osan3Alpha,14,Ava,Hall,F,40,Nephrology,10,Northwestern University Feinberg School of Medicine,American Board of Internal Medicine,56
+Osan3Alpha,15,Liam,Scott,M,49,Urology,18,Vanderbilt University School of Medicine,American Board of Urology,75
+Osan3Alpha,16,Mia,Green,F,31,Allergy and Immunology,5,Weill Cornell Medicine,American Board of Allergy and Immunology,74
+Osan3Alpha,17,Sebastian,Kelly,M,55,Ophthalmology,24,University of Virginia School of Medicine,American Board of Ophthalmology,47
+Osan3Alpha,18,Amelia,Phillips,F,37,Pulmonology,9,Emory University School of Medicine,American Board of Internal Medicine,71
+Osan3Alpha,19,Mason,Russell,M,45,Otolaryngology,14,University of Texas Southwestern Medical School,American Board of Otolaryngology,86
+Osan3Alpha,20,Zoe,Powell,F,39,Anesthesiology,11,University of Pittsburgh School of Medicine,American Board of Anesthesiology,49
+Osan3Alpha,21,Elijah,Martin,M,48,Physical Medicine and Rehabilitation,16,Case Western Reserve University School of Medicine,American Board of Physical Medicine and Rehabilitation,49
+Osan3Alpha,22,Luna,White,F,35,Infectious Disease,6,University of Washington School of Medicine,American Board of Internal Medicine,38
+Osan3Alpha,23,Aiden,Turner,M,60,Plastic Surgery,28,Baylor College of Medicine,American Board of Plastic Surgery,79
+Osan3Alpha,24,Mila,King,F,33,Preventive Medicine,4,University of Colorado School of Medicine,American Board of Preventive Medicine,106
+Osan3Alpha,25,Theodore,Anderson,M,53,Radiation Oncology,23,University of Rochester School of Medicine and Dentistry,American Board of Radiology,79
+Osan3Alpha,26,Aria,Parker,F,42,Hematology,12,Indiana University School of Medicine,American Board of Internal Medicine,231
+Osan3Alpha,27,Luke,Price,M,49,Cardiothoracic Surgery,17,University of Iowa Roy J. and Lucille A. Carver College of Medicine,American Board of Thoracic Surgery,66
+Osan3Alpha,28,Leah,Gonzalez,F,38,Critical Care Medicine,10,Ohio State University College of Medicine,American Board of Internal Medicine,60
+Osan3Alpha,29,Henry,Hughes,M,56,Colorectal Surgery,26,Tufts University School of Medicine,American Board of Colon and Rectal Surgery,145
+Osan3Alpha,30,Nora,George,F,31,Diagnostic Radiology,3,University of California Davis School of Medicine,American Board of Radiology,36
+Osan3Alpha,31,Oliver,Murphy,M,42,Podiatry,14,Des Moines University College of Podiatric Medicine and Surgery,American Board of Foot and Ankle Surgery,38
+Osan3Alpha,32,Stella,Sullivan,F,47,Vascular Surgery,16,University of California Irvine School of Medicine,American Board of Surgery,804
+Osan3Alpha,33,Gabriel,Cook,M,50,Geriatrics,20,Boston University School of Medicine,American Board of Internal Medicine,124
+Osan3Alpha,34,Chloe,Graham,F,36,Child and Adolescent Psychiatry,8,University of Southern California Keck School of Medicine,American Board of Psychiatry and Neurology,42
+Osan3Alpha,35,Xander,Campbell,M,34,Nuclear Medicine,5,Dartmouth Geisel School of Medicine,American Board of Nuclear Medicine,30
+Osan3Alpha,36,Hazel,Kennedy,F,48,Orthodontics,17,Harvard School of Dental Medicine,American Board of Orthodontics,235
+Osan3Alpha,37,Christian,Watson,M,57,Maxillofacial Surgery,28,University of Pennsylvania School of Dental Medicine,American Board of Oral and Maxillofacial Surgery,48
+Osan3Alpha,38,Violet,Reynolds,F,29,Sports Medicine,3,Medical College of Wisconsin,American Board of Family Medicine,35
+Osan3Alpha,39,Lincoln,Carter,M,44,Pain Medicine,13,Georgetown University School of Medicine,American Board of Anesthesiology,159
+Osan3Alpha,40,Layla,Ross,F,40,Occupational Medicine,10,University of North Carolina at Chapel Hill School of Medicine,American Board of Preventive Medicine,40
+Osan3Alpha,41,Isaiah,Nguyen,M,39,Radiation Oncology,11,Stanford University School of Medicine,American Board of Radiology,671
+Osan3Alpha,42,Sophia,Lopez,F,31,Reproductive Endocrinology and Infertility,7,Yale School of Medicine,American Board of Obstetrics and Gynecology,43
+Osan3Alpha,43,Ethan,Kim,M,43,Neonatology,15,Johns Hopkins University School of Medicine,American Board of Pediatrics,59
+Osan3Alpha,44,Amelia,Chen,F,38,Hematology,9,University of Michigan Medical School,American Board of Internal Medicine,57
+Osan3Alpha,45,Nathan,Turner,M,52,Pulmonology,22,Mayo Clinic School of Medicine,American Board of Internal Medicine,70
+Osan3Alpha,46,Grace,Ward,F,37,Gastroenterology,10,Washington University School of Medicine in St. Louis,American Board of Internal Medicine,44
+Osan3Alpha,47,Jameson,Wong,M,41,Plastic Surgery,12,University of Texas Southwestern Medical Center,American Board of Plastic Surgery,84
+Osan3Alpha,48,Ava,Kaur,F,33,Endocrinology,8,Massachusetts General Hospital,American Board of Internal Medicine,39
+Osan3Alpha,49,Aiden,Singh,M,45,Urology,18,Perelman School of Medicine at the University of Pennsylvania,American Board of Urology,33
+Osan3Alpha,50,Samantha,Sharma,F,35,Infectious Disease,6,Emory University School of Medicine,American Board of Internal Medicine,80
+Osan3Alpha,51,Noah,Feng,M,46,Interventional Cardiology,19,Cleveland Clinic Lerner College of Medicine,American Board of Internal Medicine,40
+Osan3Alpha,52,Lucy,Chung,F,42,Ophthalmology,14,University of California San Francisco School of Medicine,American Board of Ophthalmology,32
+Osan3Alpha,53,William,Tran,M,37,Neurosurgery,10,Stanford University School of Medicine,American Board of Neurological Surgery,31
+Osan3Alpha,54,Aria,Kim,F,34,Allergy and Immunology,7,Johns Hopkins University School of Medicine,American Board of Allergy and Immunology,42
+Osan3Alpha,55,Elijah,Liu,M,40,Cardiac Electrophysiology,11,Harvard Medical School,American Board of Internal Medicine,139
+Osan3Alpha,56,Mia,Park,F,36,Rheumatology,9,University of Chicago Pritzker School of Medicine,American Board of Internal Medicine,34
+Osan3Alpha,57,Henry,Gupta,M,48,Interventional Radiology,16,Mount Sinai School of Medicine,American Board of Radiology,49
+Osan3Alpha,58,Charlotte,Lim,F,32,Developmental-Behavioral Pediatrics,8,Baylor College of Medicine,American Board of Pediatrics,42
+Osan3Alpha,59,Logan,Kumar,M,44,Vascular and Interventional Radiology,14,New York University School of Medicine,American Board of Radiology,58
+Osan3Alpha,60,Sophie,Chen,F,39,Neuropsychiatry,12,Columbia University Vagelos College of Physicians and Surgeons,American Board of Psychiatry and Neurology,42
+Osan3Alpha,61,Olivia,Martin,F,35,Neonatal-Perinatal Medicine,9,University of Texas Health Science Center at Houston McGovern Medical School,American Board of Pediatrics,75
+Osan3Alpha,62,Max,Liu,M,41,Surgical Oncology,15,Memorial Sloan Kettering Cancer Center,American Board of Surgery,91
+Osan3Alpha,63,Eva,Gomez,F,38,Female Pelvic Medicine and Reconstructive Surgery,11,University of Miami Miller School of Medicine,American Board of Obstetrics and Gynecology,39
+Osan3Alpha,64,Liam,Wu,M,37,Interventional Pain Medicine,10,University of Washington School of Medicine,American Board of Anesthesiology,76
+Osan3Alpha,65,Harper,Kim,F,33,Adolescent Medicine,7,University of California Los Angeles David Geffen School of Medicine,American Board of Pediatrics,57
+Osan3Alpha,66,Dylan,Patel,M,46,Sleep Medicine,18,Stanford University School of Medicine,American Board of Psychiatry and Neurology,96
+Osan3Alpha,67,Emily,Wong,F,40,Medical Genetics and Genomics,14,University of Pennsylvania Perelman School of Medicine,American Board of Medical Genetics and Genomics,43
+Osan3Alpha,68,Caleb,Choi,M,42,Foot and Ankle Surgery,16,New York College of Podiatric Medicine,American Board of Foot and Ankle Surgery,30
+Osan3Alpha,69,Avery,Rodriguez,F,39,Neurocritical Care,12,University of Florida College of Medicine,American Board of Psychiatry and Neurology,167
+Osan3Alpha,70,Isabella,Lee,F,34,Obstetrics and Gynecology,9,Harvard Medical School,American Board of Obstetrics and Gynecology,48
+Osan3Alpha,71,Lucas,Nguyen,M,45,Gastroenterology,17,Johns Hopkins University School of Medicine,American Board of Internal Medicine,187
+Osan3Alpha,72,Zoe,Mendoza,F,37,Hematology/Oncology,10,Mayo Clinic School of Medicine,American Board of Internal Medicine,250
+Osan3Alpha,73,Ethan,Kaur,M,41,Plastic Surgery,14,University of Texas Southwestern Medical School,American Board of Plastic Surgery,36
+Osan3Alpha,74,Amelia,Yang,F,36,Reproductive Endocrinology and Infertility,11,Stanford University School of Medicine,American Board of Obstetrics and Gynecology,39
+Osan3Alpha,75,Lucas,Gupta,M,43,Thoracic Surgery,15,University of Michigan Medical School,American Board of Thoracic Surgery,217
+Osan3Alpha,76,Sofia,Kim,F,39,Pediatric Hematology/Oncology,12,Cincinnati Children's Hospital Medical Center,American Board of Pediatrics,103
+Osan3Alpha,77,Aiden,Chen,M,37,Interventional Radiology,9,Washington University School of Medicine in St. Louis,American Board of Radiology,142
+Osan3Alpha,78,Ella,Li,F,33,Pediatric Nephrology,7,Children's Hospital of Philadelphia,American Board of Pediatrics,40
+Osan3Alpha,79,Jack,Zhang,M,38,Endocrinology,10,University of Alabama School of Medicine,American Board of Internal Medicine,38
+Osan3Alpha,80,Ava,Patel,F,35,Pediatric Cardiology,8,Emory University School of Medicine,American Board of Pediatrics,979
+Osan3Alpha,81,Oliver,Hernandez,M,46,Neurology,16,Massachusetts General Hospital,American Board of Psychiatry and Neurology,231
+Osan3Alpha,82,Sophia,Kim,F,40,Pediatric Gastroenterology,13,University of California San Francisco School of Medicine,American Board of Pediatrics,75
+Osan3Alpha,83,William,Choi,M,42,Hand Surgery,15,Harvard Medical School,American Board of Plastic Surgery,37
+Osan3Alpha,84,Isabella,Wong,F,37,Pediatric Rheumatology,12,Children's National Medical Center,American Board of Pediatrics,31
+Osan3Alpha,85,Ethan,Lin,M,44,Infectious Disease,16,Stanford University School of Medicine,American Board of Internal Medicine,42
+Osan3Alpha,86,Amelia,Tran,F,38,Pediatric Otolaryngology,10,Boston Children's Hospital,American Board of Otolaryngology,37
+Osan3Alpha,87,Lucas,Kumar,M,43,Cardiothoracic Surgery,14,Johns Hopkins University School of Medicine,American Board of Thoracic Surgery,62
+Osan3Alpha,88,Sofia,Chen,F,39,Pediatric Dermatology,11,Children's Hospital of Philadelphia,American Board of Dermatology,33
+Osan3Alpha,89,Jameson,Lee,M,45,Colorectal Surgery,15,Mayo Clinic School of Medicine,American Board of Surgery,43
+Osan3Alpha,90,Emma,Kim,F,36,Developmental-Behavioral Pediatrics,9,University of Colorado School of Medicine,American Board of Pediatrics,411
+Osan3Alpha,91,Liam,Nguyen,M,47,Neonatology,17,University of Pennsylvania School of Medicine,American Board of Pediatrics,78
+Osan3Alpha,92,Aria,Singh,F,41,Neurotology,12,Johns Hopkins University School of Medicine,American Board of Otolaryngology,228
+Osan3Alpha,93,Oliver,Lin,M,46,Obstetrics and Gynecology,16,Harvard Medical School,American Board of Obstetrics and Gynecology,36
+Osan3Alpha,94,Sophia,Sharma,F,38,Pediatric Cardiac Surgery,10,Stanford University School of Medicine,American Board of Thoracic Surgery,34
+Osan3Alpha,95,William,Chung,M,43,Pediatric Pulmonology,14,Cincinnati Children's Hospital Medical Center,American Board of Pediatrics,93
+Osan3Alpha,96,Isabella,Gomez,F,39,Neuropsychiatry,11,Yale School of Medicine,American Board of Psychiatry and Neurology,78
+Osan3Alpha,97,Ethan,Kim,M,44,Radiation Oncology,15,University of California Los Angeles David Geffen School of Medicine,American Board of Radiology,767
+Osan3Alpha,98,Amelia,Li,F,40,Female Pelvic Medicine and Reconstructive Surgery,12,Mayo Clinic School of Medicine,American Board of Obstetrics and Gynecology,43
+Osan3Alpha,99,Lucas,Patel,M,45,Pediatric Urology,14,Children's Hospital of Philadelphia,American Board of Urology,40
+Osan3Alpha,100,Sofia,Wu,F,37,Allergy and Immunology,9,Mount Sinai School of Medicine,American Board of Allergy and Immunology,76
+Osan3Alpha,101,Oliver,Liu,M,48,Sleep Medicine,18,Stanford University School of Medicine,American Board of Psychiatry and Neurology,71
+Osan3Alpha,102,Liam,Khan,M,42,Reproductive Endocrinology and Infertility,13,Harvard Medical School,American Board of Obstetrics and Gynecology,51
+Osan3Alpha,103,Sophia,Kaur,F,39,Interventional Radiology,12,Johns Hopkins University School of Medicine,American Board of Radiology,71
+Osan3Alpha,104,William,Chen,M,46,Pediatric Nephrology,15,University of California San Francisco School of Medicine,American Board of Pediatrics,75
+Osan3Alpha,105,Emma,Kumar,F,40,Orthopedic Trauma Surgery,10,Hospital for Special Surgery,American Board of Orthopaedic Surgery,35
+Osan3Alpha,106,Jameson,Gonzalez,M,47,Pediatric Neurology,16,Boston Children's Hospital,American Board of Psychiatry and Neurology,126
+Osan3Alpha,107,Sofia,Lim,F,38,Pediatric Hematology and Oncology,11,St. Jude Children's Research Hospital,American Board of Pediatrics,39
+Osan3Alpha,108,Aria,Hernandez,F,43,Hand Surgery,14,Harvard Medical School,American Board of Plastic Surgery,420
+Osan3Alpha,109,Lucas,Tran,M,49,Cardiac Electrophysiology,17,Mayo Clinic School of Medicine,American Board of Internal Medicine,52
+Osan3Alpha,110,Ethan,Li,M,41,Neuro-Ophthalmology,12,Emory University School of Medicine,American Board of Ophthalmology,135
+Osan3Alpha,111,Isabella,Kim,F,37,Pediatric Dermatology,9,University of Miami Miller School of Medicine,American Board of Dermatology,74
+Osan3Alpha,112,Oliver,Singh,M,45,Reconstructive Surgery,14,New York University School of Medicine,American Board of Plastic Surgery,80
+Osan3Alpha,113,Emma,Lee,F,39,Pediatric Gastroenterology,11,Children's Hospital of Philadelphia,American Board of Pediatrics,40
+Osan3Alpha,114,William,Murphy,M,48,Cardiovascular Surgery,18,Johns Hopkins University School of Medicine,American Board of Thoracic Surgery,50
+Osan3Alpha,115,Liam,Gomez,M,42,Pediatric Infectious Diseases,13,Columbia University Vagelos College of Physicians and Surgeons,American Board of Pediatrics,70
+Osan3Alpha,116,Sophia,Wang,F,38,Fetal Medicine,10,Mayo Clinic School of Medicine,American Board of Obstetrics and Gynecology,81
+Osan3Alpha,117,Jameson,Chow,M,47,Rehabilitation Medicine,15,Stanford University School of Medicine,American Board of Physical Medicine and Rehabilitation,116
+Osan3Alpha,118,Aria,Nguyen,F,40,Colon and Rectal Surgery,12,Weill Cornell Medical College,American Board of Colon and Rectal Surgery,42
+Osan3Alpha,119,Ethan,Kumar,M,43,Endocrinology,14,Harvard Medical School,American Board of Internal Medicine,45
+Osan3Alpha,120,Lucas,Patel,M,49,Mohs Surgery,17,University of Pennsylvania Perelman School of Medicine,American Board of Dermatology,38
+Osan3Alpha,121,Isabella,Lopez,F,37,Neonatal-Perinatal Medicine,9,University of California Los Angeles David Geffen School of Medicine,American Board of Pediatrics,117
+Osan3Alpha,122,Oliver,Garcia,M,45,Surgical Oncology,14,Memorial Sloan Kettering Cancer Center,American Board of Surgery,31
+Osan3Alpha,123,Liam,Chen,M,41,Obstetric Anesthesiology,12,Stanford University School of Medicine,American Board of Anesthesiology,221
+Osan3Alpha,124,Sophia,Kaur,F,38,Neurocritical Care,11,Johns Hopkins University School of Medicine,American Board of Psychiatry and Neurology,48
+Osan3Alpha,125,William,Wu,M,46,Pediatric Cardiology,15,Children's Hospital of Philadelphia,American Board of Pediatrics,56
+Osan3Alpha,126,Emma,Sharma,F,39,Medical Genetics,10,University of California San Francisco School of Medicine,American Board of Medical Genetics and Genomics,137
+Osan3Alpha,127,Jameson,Nguyen,M,47,Plastic Surgery,16,Harvard Medical School,American Board of Plastic Surgery,87
+Osan3Alpha,128,Aria,Chow,F,40,Rheumatology,13,Mayo Clinic School of Medicine,American Board of Internal Medicine,40
+Osan3Alpha,129,Ethan,Liu,M,43,Vascular Neurology,14,Emory University School of Medicine,American Board of Psychiatry and Neurology,47
+Osan3Alpha,130,Lucas,Gomez,M,49,Sleep Medicine,17,Stanford University School of Medicine,American Board of Psychiatry and Neurology,45
+Osan3Alpha,131,Isabella,Kim,F,37,Allergy and Immunology,9,University of Texas Southwestern Medical Center,American Board of Allergy and Immunology,31
+Osan3Alpha,132,Oliver,Singh,M,45,Hepatology,14,Johns Hopkins University School of Medicine,American Board of Internal Medicine,257
+Osan3Alpha,133,Liam,Chen,M,41,Female Pelvic Medicine and Reconstructive Surgery,12,Mayo Clinic School of Medicine,American Board of Obstetrics and Gynecology,281
+Osan3Alpha,134,Sophia,Garcia,F,38,Neuropsychiatry,11,Columbia University Vagelos College of Physicians and Surgeons,American Board of Psychiatry and Neurology,134
+Osan3Alpha,135,William,Murphy,M,46,Cardiothoracic Anesthesiology,15,Stanford University School of Medicine,American Board of Anesthesiology,46
+Osan3Alpha,136,Emma,Patel,F,39,Maternal-Fetal Medicine,10,University of California San Francisco School of Medicine,American Board of Obstetrics and Gynecology,33
+Osan3Alpha,137,Jameson,Wu,M,47,Interventional Radiology,16,University of Pennsylvania Perelman School of Medicine,American Board of Radiology,54
+Osan3Alpha,138,Aria,Nguyen,F,40,Integrative Medicine,13,University of Arizona College of Medicine,American Board of Integrative Medicine,695
+Osan3Alpha,139,Ethan,Kumar,M,43,Obesity Medicine,14,Harvard Medical School,American Board of Obesity Medicine,53
+Osan3Alpha,140,Lucas,Lopez,M,49,Neurotology,17,Massachusetts Eye and Ear Infirmary,American Board of Otolaryngology - Head and Neck Surgery,202
+Osan3Alpha,141,Isabella,Chow,F,37,Reproductive Endocrinology and Infertility,9,University of California Los Angeles David Geffen School of Medicine,American Board of Obstetrics and Gynecology,498
+Osan3Alpha,142,Oliver,Gomez,M,45,Pediatric Gastroenterology,14,Children's Hospital of Philadelphia,American Board of Pediatrics,30
+Osan3Alpha,143,Liam,Singh,M,41,Sleep Medicine,12,Stanford University School of Medicine,American Board of Psychiatry and Neurology,53
+Osan3Alpha,144,Sophia,Chen,F,38,Pediatric Hematology and Oncology,11,St. Jude Children's Research Hospital,American Board of Pediatrics,642
+Osan3Alpha,145,William,Kim,M,46,Hand Surgery,15,Washington University School of Medicine in St. Louis,American Board of Plastic Surgery,36
+Osan3Alpha,146,Emma,Lee,F,39,Infectious Disease,10,Harvard Medical School,American Board of Internal Medicine,177
+Osan3Alpha,147,Jameson,Sharma,M,47,Child Abuse Pediatrics,16,University of Utah School of Medicine,American Board of Pediatrics,46
+Osan3Alpha,148,Aria,Patel,F,40,Pediatric Nephrology,13,Stanford University School of Medicine,American Board of Pediatrics,175
+Osan3Alpha,149,Ethan,Nguyen,M,43,Psychosomatic Medicine,14,Harvard Medical School,American Board of Psychiatry and Neurology,59
+Osan3Alpha,150,Lucas,Wu,M,49,Neuro-Ophthalmology,17,Johns Hopkins University School of Medicine Wilmer Eye Institute,American Board of Ophthalmology,93
+Osan3Alpha,151,Isabel,Rodriguez,F,36,Reconstructive Surgery,8,University of Miami Leonard M. Miller School of Medicine,American Board of Plastic Surgery,152
+Osan3Alpha,152,Noah,Chung,M,42,Head and Neck Surgery,11,Harvard Medical School Massachusetts Eye and Ear,American Board of Otolaryngology,39
+Osan3Alpha,153,Ava,Kaur,F,38,Sports Medicine,9,University of Pittsburgh School of Medicine,American Board of Family Medicine,38
+Osan3Alpha,154,Liam,Huynh,M,45,Pediatric Cardiology,15,Harvard Medical School Boston Children's Hospital,American Board of Pediatrics,180
+Osan3Alpha,155,Olivia,Kumar,F,39,Reproductive Endocrinology and Infertility,10,Weill Cornell Medical College,American Board of Obstetrics and Gynecology,31
+Osan3Alpha,156,William,Lopez,M,46,Interventional Radiology,16,Stanford University School of Medicine,American Board of Radiology,72
+Osan3Alpha,157,Emma,Park,F,37,Neonatal-Perinatal Medicine,9,University of Pennsylvania School of Medicine Children's Hospital of Philadelphia,American Board of Pediatrics,75
+Osan3Alpha,158,James,Ng,M,44,Transplant Surgery,12,Johns Hopkins University School of Medicine,American Board of Surgery,457
+Osan3Alpha,159,Ava,Shin,F,38,Developmental-Behavioral Pediatrics,9,University of California San Francisco School of Medicine,American Board of Pediatrics,43
+Osan3Alpha,160,Lucas,Gupta,M,43,Cardiothoracic Surgery,14,Mayo Clinic College of Medicine and Science,American Board of Thoracic Surgery,233
+Osan3Alpha,161,Sophia,Lim,F,35,Medical Genetics and Genomics,8,University of Washington School of Medicine,American Board of Medical Genetics and Genomics,46
+Osan3Alpha,162,Ethan,Chen,M,42,Hand Surgery,11,Washington University School of Medicine in St. Louis,American Board of Plastic Surgery,238
+Osan3Alpha,163,Olivia,Kim,F,37,Sleep Medicine,9,Stanford University School of Medicine,American Board of Internal Medicine,35
+Osan3Alpha,164,Noah,Martinez,M,46,Neurotology,15,Harvard Medical School Massachusetts Eye and Ear,American Board of Otolaryngology,348
+Osan3Alpha,165,Isabella,Tran,F,39,Hospice and Palliative Medicine,10,Johns Hopkins University School of Medicine,American Board of Family Medicine,181
+Osan3Alpha,166,Alexander,Lin,M,44,Female Pelvic Medicine and Reconstructive Surgery,12,University of California Los Angeles David Geffen School of Medicine,American Board of Obstetrics and Gynecology,34
+Osan3Alpha,167,Mia,Lee,F,36,Gynecologic Oncology,8,Mayo Clinic College of Medicine and Science,American Board of Obstetrics and Gynecology,30
+Osan3Alpha,168,Samuel,Hernandez,M,43,Neurotology,13,Harvard Medical School Massachusetts Eye and Ear,American Board of Otolaryngology,43
+Osan3Alpha,169,Sophia,Gonzalez,F,37,Infectious Disease,9,Emory University School of Medicine,American Board of Internal Medicine,69
+Osan3Alpha,170,Aiden,Tan,M,42,Reproductive Endocrinology and Infertility,11,Weill Cornell Medical College,American Board of Obstetrics and Gynecology,31
+Osan3Alpha,171,Grace,Kim,F,38,Pediatric Cardiology,10,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,30
+Osan3Alpha,172,Liam,Yang,M,46,Neuroradiology,14,University of California San Francisco School of Medicine,American Board of Radiology,120
+Osan3Alpha,173,Sophia,Nguyen,F,37,Neurology,9,Johns Hopkins University School of Medicine,American Board of Psychiatry and Neurology,344
+Osan3Alpha,174,Oliver,Park,M,42,Orthopedic Sports Medicine,11,Weill Cornell Medical College Hospital for Special Surgery,American Board of Orthopaedic Surgery,42
+Osan3Alpha,175,Ava,Lim,F,39,Cardiothoracic Surgery,10,Stanford University School of Medicine,American Board of Thoracic Surgery,89
+Osan3Alpha,176,Noah,Choi,M,43,Vascular Neurology,12,University of Miami Miller School of Medicine,American Board of Psychiatry and Neurology,37
+Osan3Alpha,177,Emma,Patel,F,37,Hematology,9,Harvard Medical School,American Board of Internal Medicine,279
+Osan3Alpha,178,William,Gupta,M,45,Gastroenterology,14,University of Chicago Pritzker School of Medicine,American Board of Internal Medicine,93
+Osan3Alpha,179,Sophia,Martin,F,38,Endocrinology,10,University of California San Francisco School of Medicine,American Board of Internal Medicine,35
+Osan3Alpha,180,James,Lee,M,44,Cardiovascular Disease,13,Johns Hopkins University School of Medicine,American Board of Internal Medicine,44
+Osan3Alpha,181,Mia,Tran,F,36,Reproductive Endocrinology and Infertility,9,Emory University School of Medicine,American Board of Obstetrics and Gynecology,42
+Osan3Alpha,182,Lucas,Kumar,M,47,Geriatric Psychiatry,15,Yale School of Medicine,American Board of Psychiatry and Neurology,243
+Osan3Alpha,183,Isabella,Perez,F,38,Hand Surgery,10,Washington University School of Medicine in St. Louis,American Board of Plastic Surgery,108
+Osan3Alpha,184,Oliver,Zhang,M,42,Interventional Radiology,12,University of California Los Angeles David Geffen School of Medicine,American Board of Radiology,37
+Osan3Alpha,185,Sophia,Chung,F,37,Pediatric Pulmonology,9,University of Washington School of Medicine,American Board of Pediatrics,35
+Osan3Alpha,186,James,Hernandez,M,44,Sleep Medicine,11,Mayo Clinic College of Medicine and Science,American Board of Internal Medicine,37
+Osan3Alpha,187,Emma,Wu,F,36,Reproductive Medicine,8,Baylor College of Medicine,American Board of Obstetrics and Gynecology,63
+Osan3Alpha,188,William,Kim,M,47,Surgical Oncology,14,Memorial Sloan Kettering Cancer Center,American Board of Surgery,85
+Osan3Alpha,189,Ava,Li,F,38,Obstetrics and Gynecology,10,University of Texas Southwestern Medical School,American Board of Obstetrics and Gynecology,71
+Osan3Alpha,190,Liam,Gomez,M,43,Interventional Cardiology,12,Cleveland Clinic Lerner College of Medicine,American Board of Internal Medicine,88
+Osan3Alpha,191,Chloe,Chang,F,37,Medical Genetics,9,Stanford University School of Medicine,American Board of Medical Genetics and Genomics,47
+Osan3Alpha,192,Noah,Ahmed,M,44,Reconstructive Surgery,11,University of Michigan Medical School,American Board of Plastic Surgery,32
+Osan3Alpha,193,Sophia,Lopez,F,36,Neonatology,8,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,33
+Osan3Alpha,194,Oliver,Martinez,M,42,Pediatric Hematology and Oncology,12,Baylor College of Medicine Children's Hospital in Texas,American Board of Pediatrics,38
+Osan3Alpha,195,Emma,Ramirez,F,37,Colon and Rectal Surgery,9,University of Minnesota Medical School,American Board of Surgery,260
+Osan3Alpha,196,Ava,Kaur,F,38,Pediatric Ophthalmology,10,Emory University School of Medicine,American Board of Ophthalmology,38
+Osan3Alpha,197,William,Lin,M,47,Obesity Medicine,14,University of Colorado School of Medicine,American Board of Obesity Medicine,31
+Osan3Alpha,198,Mia,Song,F,36,Pediatric Gastroenterology,8,University of Cincinnati College of Medicine Children's Hospital Medical Center,American Board of Pediatrics,205
+Osan3Alpha,199,Liam,Wang,M,43,Rheumatology,12,Johns Hopkins University School of Medicine,American Board of Internal Medicine,43
+Osan3Alpha,200,Sophia,Ng,M,37,Pediatric Nephrology,9,Harvard Medical School Boston Children's Hospital,American Board of Pediatrics,30
+Osan3Alpha,201,Olivia,Yu,F,38,Neurotology,10,University of Miami Miller School of Medicine,American Board of Otolaryngology,172
+Osan3Alpha,202,Ethan,Kim,M,47,Pediatric Neurology,14,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Psychiatry and Neurology,114
+Osan3Alpha,203,Isabella,Patel,F,36,Reproductive Endocrinology and Infertility,9,Stanford University School of Medicine,American Board of Obstetrics and Gynecology,43
+Osan3Alpha,204,Lucas,Chen,M,43,Interventional Radiology,12,Mount Sinai School of Medicine,American Board of Radiology,37
+Osan3Alpha,205,Ava,Nguyen,F,38,Pediatric Pulmonology,10,University of California San Francisco School of Medicine,American Board of Pediatrics,35
+Osan3Alpha,206,Liam,Choi,M,44,Geriatric Medicine,11,University of Washington School of Medicine,American Board of Internal Medicine,63
+Osan3Alpha,207,Olivia,Huang,F,37,Pediatric Cardiology,9,Baylor College of Medicine Children's Hospital in Texas,American Board of Pediatrics,153
+Osan3Alpha,208,William,Liu,M,47,Surgical Oncology,14,Johns Hopkins University School of Medicine,American Board of Surgery,141
+Osan3Alpha,209,Emma,Tran,F,36,Reproductive Medicine,8,Mayo Clinic College of Medicine and Science,American Board of Obstetrics and Gynecology,630
+Osan3Alpha,210,Noah,Kaur,M,43,Cardiothoracic Surgery,12,Stanford University School of Medicine,American Board of Thoracic Surgery,35
+Osan3Alpha,211,Sophia,Park,F,37,Endocrinology,9,Harvard Medical School Brigham and Women's Hospital,American Board of Internal Medicine,86
+Osan3Alpha,212,Oliver,Li,M,44,Neurological Surgery,11,University of Michigan Medical School,American Board of Neurological Surgery,31
+Osan3Alpha,213,Liam,Kim,M,43,Interventional Cardiology,12,Mount Sinai School of Medicine,American Board of Internal Medicine,39
+Osan3Alpha,214,Mia,Chung,F,38,Medical Genetics,10,Stanford University School of Medicine,American Board of Medical Genetics and Genomics,341
+Osan3Alpha,215,Ethan,Wu,M,47,Pediatric Hematology and Oncology,14,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,267
+Osan3Alpha,216,Isabella,Gomez,F,36,Colorectal Surgery,9,Cleveland Clinic Lerner College of Medicine,American Board of Surgery,46
+Osan3Alpha,217,Sophia,Patel,F,37,Infectious Disease,9,Harvard Medical School Massachusetts General Hospital,American Board of Internal Medicine,367
+Osan3Alpha,218,Lucas,Ramirez,M,44,Reconstructive Surgery,11,University of California Los Angeles David Geffen School of Medicine,American Board of Plastic Surgery,66
+Osan3Alpha,219,Emma,Lee,F,38,Obstetrics and Gynecology,10,University of Texas Southwestern Medical School,American Board of Obstetrics and Gynecology,92
+Osan3Alpha,220,William,Ahmed,M,47,Hand Surgery,14,Washington University School of Medicine in St. Louis,American Board of Plastic Surgery,49
+Osan3Alpha,221,Oliver,Wang,M,43,Pediatric Nephrology,12,Harvard Medical School Boston Children's Hospital,American Board of Pediatrics,94
+Osan3Alpha,222,Mia,Kim,F,38,Gynecologic Oncology,10,Weill Cornell Medical College Memorial Sloan Kettering Cancer Center,American Board of Obstetrics and Gynecology,186
+Osan3Alpha,223,Liam,Hernandez,M,44,Orthopedic Trauma Surgery,11,University of California San Francisco School of Medicine,American Board of Orthopaedic Surgery,35
+Osan3Alpha,224,Ava,Li,F,37,Child and Adolescent Psychiatry,9,George Washington University School of Medicine Children's National Medical Center,American Board of Psychiatry and Neurology,100
+Osan3Alpha,225,Ethan,Tran,M,43,Cardiac Electrophysiology,12,Mount Sinai School of Medicine,American Board of Internal Medicine,60
+Osan3Alpha,226,Isabella,Liu,F,36,Hand Surgery,8,Columbia University College of Physicians and Surgeons New York-Presbyterian Hospital/Weill Cornell Medical Center,American Board of Plastic Surgery,85
+Osan3Alpha,227,Olivia,Chen,F,37,Obstetric Anesthesiology,9,Harvard Medical School Massachusetts General Hospital,American Board of Anesthesiology,35
+Osan3Alpha,228,Lucas,Nguyen,M,44,Neuroradiology,11,Stanford University School of Medicine,American Board of Radiology,36
+Osan3Alpha,229,Sophia,Patel,F,38,Child Abuse Pediatrics,10,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,31
+Osan3Alpha,230,Emma,Park,F,36,Rheumatology,8,Harvard Medical School Brigham and Women's Hospital,American Board of Internal Medicine,57
+Osan3Alpha,231,Noah,Chung,M,43,Reproductive Endocrinology and Infertility,12,Mayo Clinic College of Medicine and Science,American Board of Obstetrics and Gynecology,34
+Osan3Alpha,232,William,Li,M,47,Plastic Surgery,14,University of Texas Southwestern Medical Center,American Board of Plastic Surgery,827
+Osan3Alpha,233,Ava,Kim,F,38,Pediatric Gastroenterology,10,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,37
+Osan3Alpha,234,Ethan,Wu,M,43,Hematology,12,Harvard Medical School Massachusetts General Hospital,American Board of Internal Medicine,44
+Osan3Alpha,235,Mia,Gomez,F,36,Thoracic Surgery,9,Johns Hopkins University School of Medicine,American Board of Thoracic Surgery,95
+Osan3Alpha,236,Sophia,Ramirez,F,37,Neurology,9,University of California San Francisco School of Medicine,American Board of Psychiatry and Neurology,59
+Osan3Alpha,237,Liam,Lee,M,44,Interventional Radiology,11,Mount Sinai School of Medicine,American Board of Radiology,162
+Osan3Alpha,238,Emma,Hernandez,F,38,Neonatology,10,George Washington University School of Medicine Children's National Medical Center,American Board of Pediatrics,158
+Osan3Alpha,239,Oliver,Patel,M,43,Cardiovascular Disease,12,Stanford University School of Medicine,American Board of Internal Medicine,193
+Osan3Alpha,240,Isabella,Chen,F,36,Obstetrics and Gynecology,9,Columbia University College of Physicians and Surgeons New York-Presbyterian Hospital/Weill Cornell Medical Center,American Board of Obstetrics and Gynecology,70
+Osan3Alpha,241,William,Kim,M,47,Neurological Surgery,14,Harvard Medical School Massachusetts General Hospital,American Board of Neurological Surgery,107
+Osan3Alpha,242,Lucas,Tran,M,44,Pediatric Cardiology,11,Harvard Medical School Boston Children's Hospital,American Board of Pediatrics,36
+Osan3Alpha,243,Olivia,Lee,F,37,Medical Oncology,9,Weill Cornell Medical College Memorial Sloan Kettering Cancer Center,American Board of Internal Medicine,326
+Osan3Alpha,244,Emma,Wang,F,38,Hand Surgery,10,Columbia University College of Physicians and Surgeons New York-Presbyterian Hospital/Weill Cornell Medical Center,American Board of Plastic Surgery,57
+Osan3Alpha,245,Noah,Park,M,43,Reconstructive Surgery,12,University of Texas Southwestern Medical Center,American Board of Plastic Surgery,76
+Osan3Alpha,246,Liam,Nguyen,M,44,Neurotology,11,Harvard Medical School Massachusetts Eye and Ear Infirmary,American Board of Otolaryngology,97
+Osan3Alpha,247,Oliver,Patel,M,43,Pulmonary Disease,12,Harvard Medical School Brigham and Women's Hospital,American Board of Internal Medicine,362
+Osan3Alpha,248,Mia,Gomez,F,36,Maternal and Fetal Medicine,9,Mayo Clinic College of Medicine and Science,American Board of Obstetrics and Gynecology,41
+Osan3Alpha,249,Sophia,Hernandez,F,38,Vascular Surgery,10,Johns Hopkins University School of Medicine,American Board of Surgery,275
+Osan3Alpha,250,William,Li,M,47,Endocrinology,14,Harvard Medical School Massachusetts General Hospital,American Board of Internal Medicine,466
+Osan3Alpha,251,Ethan,Kim,M,43,Cardiothoracic Surgery,12,Stanford University School of Medicine,American Board of Thoracic Surgery,38
+Osan3Alpha,252,Ava,Lee,F,36,Pediatric Hematology-Oncology,9,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,54
+Osan3Alpha,253,Lucas,Chen,M,44,Colon and Rectal Surgery,11,Cleveland Clinic Lerner College of Medicine,American Board of Colon and Rectal Surgery,31
+Osan3Alpha,254,Emma,Tran,F,38,Infectious Disease,10,Harvard Medical School Massachusetts General Hospital,American Board of Internal Medicine,72
+Osan3Alpha,255,Olivia,Ramirez,F,37,Interventional Cardiology,9,Mount Sinai School of Medicine,American Board of Internal Medicine,33
+Osan3Alpha,256,Sophia,Patel,F,38,Child and Adolescent Psychiatry,10,George Washington University School of Medicine Children's National Medical Center,American Board of Psychiatry and Neurology,169
+Osan3Alpha,257,Isabella,Li,F,36,Obstetric Anesthesiology,9,Harvard Medical School Massachusetts General Hospital,American Board of Anesthesiology,131
+Osan3Alpha,258,William,Kim,M,47,Reproductive Endocrinology and Infertility,14,Mayo Clinic College of Medicine and Science,American Board of Obstetrics and Gynecology,101
+Osan3Alpha,259,Noah,Nguyen,M,43,Orthopedic Sports Medicine,12,Weill Cornell Medical College Hospital for Special Surgery,American Board of Orthopaedic Surgery,30
+Osan3Alpha,260,Liam,Hernandez,M,44,Neurocritical Care,11,University of California San Francisco School of Medicine,American Board of Neurology,31
+Osan3Alpha,261,Grace,Wong,F,39,Neurology,10,Harvard Medical School Massachusetts General Hospital,American Board of Psychiatry and Neurology,64
+Osan3Alpha,262,Sebastian,Kim,M,46,Plastic Surgery,13,Columbia University College of Physicians and Surgeons New York-Presbyterian Hospital/Columbia University Medical Center,American Board of Plastic Surgery,274
+Osan3Alpha,263,Harper,Lin,F,37,Cardiac Electrophysiology,9,Harvard Medical School Brigham and Women's Hospital,American Board of Internal Medicine,64
+Osan3Alpha,264,Evelyn,Tan,F,38,Pediatric Neurology,10,Harvard Medical School Boston Children's Hospital,American Board of Psychiatry and Neurology,175
+Osan3Alpha,265,Benjamin,Chen,M,43,Thoracic Surgery,12,Stanford University School of Medicine,American Board of Thoracic Surgery,58
+Osan3Alpha,266,Avery,Kwok,F,36,Hematology,9,Mayo Clinic College of Medicine and Science,American Board of Internal Medicine,39
+Osan3Alpha,267,Henry,Truong,M,44,Gastroenterology,11,Harvard Medical School Massachusetts General Hospital,American Board of Internal Medicine,63
+Osan3Alpha,268,Scarlett,Park,F,37,Reproductive Endocrinology and Infertility,10,Columbia University College of Physicians and Surgeons New York-Presbyterian Hospital/Weill Cornell Medical Center,American Board of Obstetrics and Gynecology,51
+Osan3Alpha,269,Michael,Guo,M,46,Interventional Radiology,13,Washington University School of Medicine Mallinckrodt Institute of Radiology,American Board of Radiology,66
+Osan3Alpha,270,Samuel,Ng,F,39,Colorectal Surgery,10,Cleveland Clinic Lerner College of Medicine,American Board of Colon and Rectal Surgery,192
+Osan3Alpha,271,Lily,Zhang,F,37,Obstetrics and Gynecology,9,Harvard Medical School Brigham and Women's Hospital,American Board of Obstetrics and Gynecology,220
+Osan3Alpha,272,Joseph,Lee,M,44,Anesthesiology,12,Harvard Medical School Massachusetts General Hospital,American Board of Anesthesiology,34
+Osan3Alpha,273,Mila,Liu,F,38,Medical Genetics,10,Stanford University School of Medicine,American Board of Medical Genetics and Genomics,34
+Osan3Alpha,274,Daniel,Ho,M,46,Cardiac Surgery,13,David Geffen School of Medicine at UCLA Cedars-Sinai Medical Center,American Board of Thoracic Surgery,38
+Osan3Alpha,275,Victoria,Pham,F,39,Neonatology,10,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,44
+Osan3Alpha,276,Alexander,Kwon,M,46,Neuroradiology,13,Harvard Medical School Massachusetts General Hospital,American Board of Radiology,52
+Osan3Alpha,277,Aubrey,Nguyen,F,37,Pediatric Gastroenterology,9,Keck School of Medicine of USC Children's Hospital of Los Angeles,American Board of Pediatrics,179
+Osan3Alpha,278,James,Wu,M,44,Pediatric Nephrology,12,Stanford University School of Medicine,American Board of Pediatrics,47
+Osan3Alpha,279,Sofia,Wang,F,38,Medical Microbiology,10,Johns Hopkins University School of Medicine,American Board of Medical Microbiology,295
+Osan3Alpha,280,David,Lin,M,46,Interventional Cardiology,13,Harvard Medical School Massachusetts General Hospital,American Board of Internal Medicine,40
+Osan3Alpha,281,Olivia,Kim,F,37,Dermatology,9,Columbia University College of Physicians and Surgeons New York-Presbyterian Hospital/Weill Cornell Medical Center,American Board of Dermatology,40
+Osan3Alpha,282,William,Choi,M,44,Orthopedic Surgery,12,Weill Cornell Medical College Hospital for Special Surgery,American Board of Orthopaedic Surgery,38
+Osan3Alpha,283,Emma,Liu,F,38,Endocrinology,10,Harvard Medical School Massachusetts General Hospital,American Board of Internal Medicine,56
+Osan3Alpha,284,Christopher,Li,M,46,Allergy and Immunology,13,Johns Hopkins University School of Medicine,American Board of Allergy and Immunology,359
+Osan3Alpha,285,Isabella,Ng,F,39,Ophthalmology,10,Thomas Jefferson University Wills Eye Hospital,American Board of Ophthalmology,32
+Osan3Alpha,286,Lucas,Wu,M,44,Infectious Disease,11,Stanford University School of Medicine,American Board of Internal Medicine,33
+Osan3Alpha,287,Mia,Chang,F,36,Physical Medicine and Rehabilitation,9,Icahn School of Medicine at Mount Sinai Hospital,American Board of Physical Medicine and Rehabilitation,266
+Osan3Alpha,288,Josephine,Kwok,F,38,Neonatal-Perinatal Medicine,10,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,44
+Osan3Alpha,289,Andrew,Pham,M,45,Pediatric Hematology-Oncology,12,University of Tennessee Health Science Center at St. Jude Children's Research Hospital,American Board of Pediatrics,30
+Osan3Alpha,290,Grace,Truong,F,37,Rheumatology,9,Harvard Medical School Brigham and Women's Hospital,American Board of Internal Medicine,344
+Osan3Alpha,291,Ethan,Wong,M,44,Hand Surgery,12,Weill Cornell Medical College Hospital for Special Surgery,American Board of Plastic Surgery,134
+Osan3Alpha,292,Abigail,Guo,F,38,Pulmonary Disease,10,Mayo Clinic College of Medicine and Science,American Board of Internal Medicine,141
+Osan3Alpha,293,Sebastian,Kim,M,46,Sports Medicine,13,Weill Cornell Medical College Hospital for Special Surgery,American Board of Orthopaedic Surgery,42
+Osan3Alpha,294,Chloe,Lin,F,37,Child and Adolescent Psychiatry,9,Harvard Medical School Boston Children's Hospital,American Board of Psychiatry and Neurology,48
+Osan3Alpha,295,Oliver,Ng,M,44,Interventional Neuroradiology,12,Harvard Medical School Massachusetts General Hospital,American Board of Radiology,214
+Osan3Alpha,296,Charlotte,Tan,F,39,Developmental-Behavioral Pediatrics,10,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,34
+Osan3Alpha,297,Leo,Kwok,M,45,Vascular Surgery,11,Columbia University College of Physicians and Surgeons NewYork-Presbyterian Hospital/Weill Cornell Medical Center,American Board of Surgery,396
+Osan3Alpha,298,Amelia,Park,F,38,Forensic Pathology,10,University of Maryland School of Medicine Office of the Chief Medical Examiner,American Board of Pathology,34
+Osan3Alpha,299,Noah,Lee,M,46,Interventional Pain Management,13,Cleveland Clinic Lerner College of Medicine,American Board of Anesthesiology,116
+Osan3Alpha,300,Sophia,Wang,F,39,Child Abuse Pediatrics,10,George Washington University School of Medicine and Health Sciences Children's National Medical Center,American Board of Pediatrics,43
+Osan3Alpha,301,James,Nguyen,M,44,Neurotology,12,Harvard Medical School Massachusetts Eye and Ear Infirmary,American Board of Otolaryngology,33
+Osan3Alpha,302,Ava,Chen,F,38,Sleep Medicine,10,Stanford University School of Medicine Sleep Medicine Center,American Board of Psychiatry and Neurology,267
+Osan3Alpha,303,Alexander,Hu,M,45,Surgical Oncology,11,Weill Cornell Medical College Memorial Sloan Kettering Cancer Center,American Board of Surgery,35
+Osan3Alpha,304,Olivia,Wong,F,37,Neurodevelopmental Disabilities,9,Johns Hopkins University School of Medicine Kennedy Krieger Institute,American Board of Psychiatry and Neurology,417
+Osan3Alpha,305,Benjamin,Tan,M,44,Gastroenterology,12,Harvard Medical School Massachusetts General Hospital,American Board of Internal Medicine,95
+Osan3Alpha,306,Sofia,Le,F,39,Reproductive Endocrinology and Infertility,10,University of Maryland School of Medicine Shady Grove Fertility in Frederick,American Board of Obstetrics and Gynecology,76
+Osan3Alpha,307,Liam,Kim,M,46,Hematology,13,University of Texas Medical School MD Anderson Cancer Center in Houston,American Board of Internal Medicine,443
+Osan3Alpha,308,Amelia,Chong,F,37,Neuromuscular Medicine,9,Harvard Medical School Brigham and Women's Hospital,American Board of Psychiatry and Neurology,56
+Osan3Alpha,309,Mason,Liu,M,44,Maternal-Fetal Medicine,12,Columbia University College of Physicians and Surgeons NewYork-Presbyterian Hospital/Weill Cornell Medical Center,American Board of Obstetrics and Gynecology,88
+Osan3Alpha,310,Emma,Chen,F,38,Cardiovascular Disease,10,Johns Hopkins University School of Medicine Johns Hopkins Hospital,American Board of Internal Medicine,63
+Osan3Alpha,311,Michael,Kwok,M,45,Hand Surgery,11,Harvard Medical School Beth Israel Deaconess Medical Center,American Board of Orthopaedic Surgery,50
+Osan3Alpha,312,Grace,Ng,F,37,Pediatric Emergency Medicine,9,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,32
+Osan3Alpha,313,Lucas,Wang,M,44,Interventional Cardiology,12,Columbia University College of Physicians and Surgeons NewYork-Presbyterian Hospital/Columbia University Irving Medical Center,American Board of Internal Medicine,130
+Osan3Alpha,314,Olivia,Truong,F,39,Colorectal Surgery,10,Lerner College of Medicine Cleveland Clinic Digestive Disease and Surgery Institute,American Board of Surgery,171
+Osan3Alpha,315,Josephine,Pham,F,38,Rehabilitation Medicine,10,Rutgers Medical School Kessler Institute for Rehabilitation in New Jersey,American Board of Physical Medicine and Rehabilitation,54
+Osan3Alpha,316,Isaac,Kim,M,46,Pediatric Nephrology,13,Harvard Medical School Boston Children's Hospital,American Board of Pediatrics,82
+Osan3Alpha,317,Mia,Lin,F,37,Gynecologic Oncology,9,Weill Cornell Medical College Memorial Sloan Kettering Cancer Center,American Board of Obstetrics and Gynecology,67
+Osan3Alpha,318,Ethan,Guo,M,44,Neurological Surgery,12,Mayo Clinic College of Medicine and Science,American Board of Neurological Surgery,43
+Osan3Alpha,319,Ava,Lee,F,39,Pediatric Radiology,10,Perelman School of Medicine at the University of Pennsylvania Children's Hospital of Philadelphia,American Board of Pediatrics,93
+Osan3Alpha,320,Samuel,Nguyen,M,39,Dermatology,11,Stanford University School of Medicine,American Board of Dermatology,311
+Osan3Alpha,321,Isabella,Chang,F,52,Radiology,22,Johns Hopkins School of Medicine,American Board of Radiology,291
+Osan3Alpha,322,Leo,Patel,M,45,Cardiac Surgery,18,Mayo Clinic School of Medicine,American Board of Thoracic Surgery,306
+Osan3Alpha,323,Ava,Shah,F,37,Endocrinology,9,University of Chicago Pritzker School of Medicine,American Board of Internal Medicine,111
+Osan3Alpha,324,Ethan,Hernandez,M,41,Plastic Surgery,15,University of Miami Miller School of Medicine,American Board of Plastic Surgery,53
+Osan3Alpha,325,Harper,Kim,F,34,Sleep Medicine,6,University of Texas Medical School at Houston,American Board of Sleep Medicine,38
+Osan3Alpha,326,Aiden,Hu,M,47,Gastroenterology,20,Washington University School of Medicine in St. Louis,American Board of Internal Medicine,37
+Osan3Alpha,327,Evelyn,Ng,F,38,Reproductive Endocrinology and Infertility,10,Yale School of Medicine,American Board of Obstetrics and Gynecology,68
+Osan3Alpha,328,Mason,Liu,M,42,Neonatology,14,University of Michigan Medical School,American Board of Pediatrics,30
+Osan3Alpha,329,Scarlett,Smith,F,50,Pediatric Hematology-Oncology,19,Cincinnati Children's Hospital Medical Center,American Board of Pediatrics,65
+Osan3Alpha,330,Henry,Brown,M,51,Hand Surgery,21,Hospital for Special Surgery,American Board of Orthopaedic Surgery,244
+Osan3Alpha,331,Sophia,Li,F,36,Hepatology,8,Icahn School of Medicine at Mount Sinai,American Board of Internal Medicine,42
+Osan3Alpha,332,Lucas,Kim,M,48,Vascular Interventional Radiology,16,Brigham and Women's Hospital,American Board of Radiology,33
+Osan3Alpha,333,Zoe,Gupta,F,43,Interventional Cardiology,13,Emory University School of Medicine,American Board of Internal Medicine,38
+Osan3Alpha,334,Emma,Chen,F,40,Neurocritical Care,12,University of California San Francisco School of Medicine,American Board of Psychiatry and Neurology,101
+Osan3Alpha,335,Carter,Li,M,39,Pediatric Nephrology,11,Children's Hospital of Philadelphia,American Board of Pediatrics,31
+Osan3Alpha,336,Lily,Wang,F,44,Reconstructive Surgery,15,New York University School of Medicine,American Board of Plastic Surgery,47
+Osan3Alpha,337,Noah,Lee,M,37,Rheumatology,9,Mayo Clinic School of Medicine,American Board of Internal Medicine,40
+Osan3Alpha,338,Liam,Tran,M,46,Surgical Oncology,18,MD Anderson Cancer Center,American Board of Surgery,38
+Osan3Alpha,339,Grace,Kaur,F,35,Female Pelvic Medicine and Reconstructive Surgery,7,University of California Los Angeles David Geffen School of Medicine,American Board of Obstetrics and Gynecology,87
+Osan3Alpha,340,Michael,Jackson,M,59,Plastic and Reconstructive Surgery,22,University of Pennsylvania School of Medicine,American Board of Plastic Surgery,121
+Osan3Alpha,341,Sofia,Kim,F,43,Neurology,11,Stanford University School of Medicine,American Board of Psychiatry and Neurology,61
+Osan3Alpha,342,William,Chen,M,50,Thoracic Surgery,18,Johns Hopkins School of Medicine,American Board of Thoracic Surgery,163
+Osan3Alpha,343,Grace,Kumar,F,46,Obstetrics and Gynecology,17,Harvard Medical School,American Board of Obstetrics and Gynecology,127
+Osan3Alpha,344,Jameson,Gupta,M,41,Pediatric Cardiology,14,Children's Hospital of Philadelphia,American Board of Pediatrics,147
+Osan3Alpha,345,Ariana,Lee,F,36,Neonatal-Perinatal Medicine,8,University of California San Francisco School of Medicine,American Board of Pediatrics,38
+Osan3Alpha,346,Elijah,Malik,M,39,Infectious Disease,12,Emory University School of Medicine,American Board of Internal Medicine,139
+Osan3Alpha,347,Amelia,Wong,F,47,Hematology,20,Washington University School of Medicine in St. Louis,American Board of Internal Medicine,32
+Osan3Alpha,348,Benjamin,Patel,M,45,Allergy and Immunology,19,University of Michigan Medical School,American Board of Allergy and Immunology,42
+Osan3Alpha,349,Chloe,Kim,F,38,Colorectal Surgery,10,Mayo Clinic School of Medicine,American Board of Colon and Rectal Surgery,82
+Osan3Alpha,350,Oliver,Liu,M,54,Obesity Medicine,25,Massachusetts General Hospital,American Board of Obesity Medicine,41
+Osan3Alpha,351,Mia,Hernandez,F,33,Sports Medicine,6,Medical College of Wisconsin,American Board of Family Medicine,62
+Osan3Alpha,352,Sebastian,Wu,M,48,Neurointerventional Surgery,16,Brigham and Women's Hospital,American Board of Neurological Surgery,33
+Osan3Alpha,353,Abigail,Chang,F,42,Gynecologic Oncology,13,University of Texas Southwestern Medical School,American Board of Obstetrics and Gynecology,52
+Osan3Alpha,354,David,Kaur,M,49,Hypertension Specialist,23,University of Alabama School of Medicine,American Society of Hypertension,53
+Osan3Alpha,355,Emily,Kim,F,37,Pain Management,9,Northwestern University Feinberg School of Medicine,American Board of Anesthesiology,49
+Osan3Alpha,356,Joshua,Tran,M,44,Cardiac Electrophysiology,15,Vanderbilt University School of Medicine,Heart Rhythm Society,97
+Osan3Alpha,357,Victoria,Li,F,35,Developmental-Behavioral Pediatrics,11,Children's Hospital Los Angeles,American Board of Pediatrics,45
+Osan3Alpha,358,Joseph,Brown,M,51,Thoracic Oncology,18,Moffitt Cancer Center,American Board of Thoracic Surgery,38
+Osan3Alpha,359,Sophie,Wang,F,39,Neuro-Ophthalmology,12,University of Iowa Carver College of Medicine,American Board of Ophthalmology,41
+Osan3Alpha,360,Michaela,Nguyen,F,43,Reproductive Endocrinology and Infertility,16,New York University School of Medicine,American Board of Obstetrics and Gynecology,80
+Osan3Alpha,361,Alexander,Kumar,M,50,Vascular and Interventional Radiology,19,Stanford University School of Medicine,American Board of Radiology,70
+Osan3Alpha,362,Olivia,Tan,F,38,Cardiothoracic Surgery,11,Mayo Clinic College of Medicine and Science,American Board of Thoracic Surgery,84
+Osan3Alpha,363,William,Chow,M,46,Head and Neck Surgery,14,University of Pittsburgh School of Medicine,American Board of Otolaryngology,189
+Osan3Alpha,364,Ava,Chen,F,37,Gastroenterology,9,Johns Hopkins School of Medicine,American Board of Internal Medicine,77
+Osan3Alpha,365,Ethan,Patel,M,51,Interventional Pain Medicine,20,Weill Cornell Medical College,American Board of Anesthesiology,437
+Osan3Alpha,366,Sophia,Li,F,34,Neurodevelopmental Disabilities,8,Children's Hospital of Philadelphia,American Board of Pediatrics,52
+Osan3Alpha,367,James,Wu,M,43,Hand Surgery,13,Harvard Medical School,American Board of Plastic Surgery,30
+Osan3Alpha,368,Madeline,Ng,F,39,Pediatric Hematology-Oncology,10,St. Jude Children's Research Hospital,American Board of Pediatrics,49
+Osan3Alpha,369,Sebastian,Kim,M,48,Reconstructive Surgery,16,University of Texas MD Anderson Cancer Center,American Board of Plastic Surgery,97
+Osan3Alpha,370,Isabella,Gupta,F,41,Rheumatology,12,Brigham and Women's Hospital,American Board of Internal Medicine,49
+Osan3Alpha,371,David,Liu,M,47,Orthopedic Trauma Surgery,18,University of California Los Angeles School of Medicine,American Board of Orthopaedic Surgery,42
+Osan3Alpha,372,Emma,Wang,F,36,Pediatric Otolaryngology,11,Children's Hospital Los Angeles,American Board of Otolaryngology,213
+Osan3Alpha,373,Oliver,Chang,M,45,Endocrinology,14,University of Chicago Pritzker School of Medicine,American Board of Internal Medicine,562
+Osan3Alpha,374,Emily,Kaur,F,40,Reproductive Medicine,15,University of Miami Miller School of Medicine,American Board of Obstetrics and Gynecology,56
+Osan3Alpha,375,Nathan,Brown,M,52,Hepatology,19,Mount Sinai School of Medicine,American Board of Internal Medicine,74
+Osan3Alpha,376,Lily,Tran,F,37,Family Planning,9,University of California San Francisco School of Medicine,American Board of Obstetrics and Gynecology,79
+Osan3Alpha,377,William,Lee,M,44,Vascular Surgery,16,Stanford University School of Medicine,American Board of Surgery,58
+Osan3Alpha,378,Mia,Chow,F,38,Surgical Oncology,10,Memorial Sloan Kettering Cancer Center,American Board of Surgery,450
+Osan3Alpha,379,Oliver,Wu,M,46,Oral and Maxillofacial Surgery,13,Harvard School of Dental Medicine,American Association of Oral and Maxillofacial Surgeons,123
+Osan3Alpha,380,Aiden,Gupta,M,39,Plastic and Reconstructive Surgery,12,University of California San Francisco School of Medicine,American Board of Plastic Surgery,36
+Osan3Alpha,381,Sophia,Patel,F,38,Female Pelvic Medicine and Reconstructive Surgery,11,University of Texas Southwestern Medical School,American Board of Obstetrics and Gynecology,61
+Osan3Alpha,382,Noah,Yang,M,42,Sports Medicine,15,University of Michigan Medical School,American Board of Family Medicine,36
+Osan3Alpha,383,Olivia,Lin,F,41,Pediatric Cardiology,14,Boston Children's Hospital,American Board of Pediatrics,551
+Osan3Alpha,384,Ethan,Kim,M,47,Interventional Radiology,18,University of California Los Angeles School of Medicine,American Board of Radiology,34
+Osan3Alpha,385,Emma,Wong,F,43,Infectious Diseases,16,Johns Hopkins School of Medicine,American Board of Internal Medicine,40
+Osan3Alpha,386,Liam,Wu,M,48,Colorectal Surgery,19,Cleveland Clinic Lerner College of Medicine,American Board of Surgery,72
+Osan3Alpha,387,Ava,Ng,F,44,Maternal-Fetal Medicine,17,Yale School of Medicine,American Board of Obstetrics and Gynecology,54
+Osan3Alpha,388,James,Liu,M,49,Neurology,20,Washington University School of Medicine in St. Louis,American Board of Psychiatry and Neurology,44
+Osan3Alpha,389,Mia,Chen,F,39,Cardiac Electrophysiology,12,Mayo Clinic College of Medicine and Science,American Board of Internal Medicine,55
+Osan3Alpha,390,William,Park,M,45,Transplant Surgery,18,University of Pittsburgh School of Medicine,American Board of Surgery,97
+Osan3Alpha,391,Charlotte,Tran,F,40,Pediatric Nephrology,14,Children's Hospital of Philadelphia,American Board of Pediatrics,44
+Osan3Alpha,392,Lucas,Kumar,M,46,Neuroradiology,15,Stanford University School of Medicine,American Board of Radiology,87
+Osan3Alpha,393,Harper,Tan,F,41,Developmental-Behavioral Pediatrics,13,Harvard Medical School,American Board of Pediatrics,327
+Osan3Alpha,394,Ava,Lin,F,47,Obstetrics and Gynecology,16,Columbia University Vagelos College of Physicians and Surgeons,American Board of Obstetrics and Gynecology,98
+Osan3Alpha,395,Oliver,Wu,M,48,Cardiovascular Disease,17,Duke University School of Medicine,American Board of Internal Medicine,50
+Osan3Alpha,396,Ella,Gupta,F,42,Neonatology,14,Children's Hospital of Los Angeles,American Board of Pediatrics,46
+Osan3Alpha,397,Samuel,Yang,M,49,Hand Surgery,18,University of Chicago Pritzker School of Medicine,American Board of Plastic Surgery,586
+Osan3Alpha,398,Scarlett,Lee,F,43,Neurocritical Care,15,Massachusetts General Hospital,American Board of Psychiatry and Neurology,45
+Osan3Alpha,399,Jack,Wang,M,50,Hematology,20,Johns Hopkins School of Medicine,American Board of Internal Medicine,145
+Osan3Alpha,400,Lily,Choi,F,44,Gastroenterology,17,University of Pennsylvania Perelman School of Medicine,American Board of Internal Medicine,144
+Osan3Alpha,401,Leo,Singh,M,45,Thoracic Surgery,18,University of Toronto Faculty of Medicine,Royal College of Physicians and Surgeons of Canada,359
+Osan3Alpha,402,Aria,Hernandez,F,41,Rheumatology,14,Mayo Clinic College of Medicine and Science,American Board of Internal Medicine,37
+Osan3Alpha,403,Julian,Nguyen,M,46,Reproductive Endocrinology and Infertility,19,New York University School of Medicine,American Board of Obstetrics and Gynecology,71
+Osan3Alpha,404,Nora,Martinez,F,42,Endocrinology,15,Emory University School of Medicine,American Board of Internal Medicine,73
+Osan3Alpha,405,Aaron,Lim,M,47,Neurotology,16,University of California San Diego School of Medicine,American Board of Otolaryngology,64
+Osan3Alpha,406,Mila,Kim,F,43,Allergy and Immunology,17,Mount Sinai School of Medicine,American Board of Allergy and Immunology,33
+Osan3Alpha,407,Evan,Song,M,48,Surgical Oncology,18,Memorial Sloan Kettering Cancer Center,American Board of Surgery,61
+Osan3Alpha,408,Sofia,Tran,F,44,Head and Neck Surgery,19,University of Miami Miller School of Medicine,American Board of Otolaryngology,34
+Osan3Alpha,409,Isaac,Wong,M,45,Neuropsychiatry,20,Harvard Medical School,American Board of Psychiatry and Neurology,30
+Osan3Alpha,410,Grace,Kumar,F,41,Pediatric Hematology-Oncology,14,St. Jude Children's Research Hospital,American Board of Pediatrics,32
+Osan3Alpha,411,Daniel,Chen,M,46,Transplant Hepatology,15,University of California San Francisco School of Medicine,American Board of Internal Medicine,309
+Osan3Alpha,412,Sophie,Wu,F,42,Hospice and Palliative Medicine,16,Stanford University School of Medicine,American Board of Family Medicine,36
+Osan3Alpha,413,Michael,Choi,M,47,Interventional Cardiology,17,Mayo Clinic College of Medicine and Science,American Board of Internal Medicine,63
+Osan3Alpha,414,Evelyn,Kim,F,43,Diagnostic Radiology,18,University of Chicago Pritzker School of Medicine,American Board of Radiology,61
+Osan3Alpha,415,Christopher,Liu,M,48,Orthopedic Sports Medicine,19,Hospital for Special Surgery,American Board of Orthopaedic Surgery,99
+Osan3Alpha,416,Hannah,Ng,F,44,Child and Adolescent Psychiatry,20,University of Pittsburgh School of Medicine,American Board of Psychiatry and Neurology,62
+Osan3Alpha,417,Joseph,Lim,M,49,Interventional Pulmonology,17,Johns Hopkins School of Medicine,American Board of Internal Medicine,106
+Osan3Alpha,418,Abigail,Wang,F,45,Addiction Medicine,18,Massachusetts General Hospital,American Board of Addiction Medicine,42
+Osan3Alpha,419,David,Lee,M,46,Plastic Surgery,19,University of Michigan Medical School,American Board of Plastic Surgery,96
+Osan3Alpha,420,Samantha,Kwon,F,47,Pediatric Cardiology,20,Children's Hospital of Philadelphia,American Board of Pediatrics,41
+Osan3Alpha,421,Andrew,Lin,M,48,Vascular Surgery,18,University of Texas Southwestern Medical Center,American Board of Surgery,57
+Osan3Alpha,422,Grace,Kim,F,49,Neonatology,19,Harvard Medical School,American Board of Pediatrics,81
+Osan3Alpha,423,William,Tran,M,50,Interventional Radiology,20,Stanford University School of Medicine,American Board of Radiology,130
+Osan3Alpha,424,Mia,Chang,F,46,Cardiothoracic Surgery,21,Mayo Clinic College of Medicine and Science,American Board of Thoracic Surgery,81
+Osan3Alpha,425,Nathan,Chung,M,47,Obstetrics and Gynecology,22,Johns Hopkins School of Medicine,American Board of Obstetrics and Gynecology,149
+Osan3Alpha,426,Ava,Liu,F,48,Neurology,23,University of California Los Angeles David Geffen School of Medicine,American Board of Psychiatry and Neurology,124
+Osan3Alpha,427,Ethan,Wu,M,49,Pediatric Infectious Diseases,24,University of Washington School of Medicine,American Board of Pediatrics,42
+Osan3Alpha,428,Lucy,Koh,F,50,Neurological Surgery,25,University of Florida College of Medicine,American Board of Neurological Surgery,94
+Osan3Alpha,429,Owen,Ng,M,46,Pediatric Nephrology,26,Children's Hospital of Pittsburgh,American Board of Pediatrics,43
+Osan3Alpha,430,Audrey,Lim,F,47,Colon and Rectal Surgery,27,Weill Cornell Medical College,American Board of Colon and Rectal Surgery,104
+Osan3Alpha,431,Benjamin,Kim,M,48,Cardiac Electrophysiology,28,New York-Presbyterian Hospital/Columbia University Medical Center,American Board of Internal Medicine,87
+Osan3Alpha,432,Sophia,Chen,F,49,Pulmonary Medicine,29,University of California San Francisco School of Medicine,American Board of Internal Medicine,184
+Osan3Alpha,433,Elijah,Lee,M,50,Female Pelvic Medicine and Reconstructive Surgery,30,Cleveland Clinic Lerner College of Medicine,American Board of Obstetrics and Gynecology,88
+Osan3Alpha,434,Charlotte,Wong,F,46,Pediatric Rheumatology,31,Cincinnati Children's Hospital Medical Center,American Board of Pediatrics,30
+Osan3Alpha,435,Gabriel,Choi,M,47,Hematology,32,University of Alabama School of Medicine,American Board of Internal Medicine,52
+Osan3Alpha,436,Emma,Kwon,F,48,Plastic and Reconstructive Surgery,33,University of Texas Medical Branch,American Board of Plastic Surgery,90
+Osan3Alpha,437,James,Lim,M,49,Pediatric Surgery,34,Baylor College of Medicine,American Board of Surgery,57
+Osan3Alpha,438,Olivia,Kim,F,50,Pediatric Otolaryngology,35,Children's Hospital of Philadelphia,American Board of Otolaryngology,250
+Osan3Alpha,439,Lucas,Chang,M,46,Pediatric Cardiac Surgery,36,University of Michigan Medical School,American Board of Thoracic Surgery,67

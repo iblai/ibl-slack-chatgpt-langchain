@@ -19,4 +19,5 @@ from django.urls import path, include
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("", include("chatbot.urls"), name="slack_events"),
+    path('api-auth/', include('rest_framework.urls'))
 ]
