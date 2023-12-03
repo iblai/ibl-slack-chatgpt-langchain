@@ -1,7 +1,19 @@
-def count_tokens(s: str) -> int:
+import tiktoken
+
+
+def count_tokens(text: str) -> int:
     """
-    TODO: Use a tokenizer
+    Encodes and returns the token count for a given string.
+
+    Params:
+        text (str): A given string to be encoded by a tokenizer.
+    Dependencies:
+        tiktoken (Encoder): BPE tokenizer for use with OpenAI's models.
     """
-    if not s:
+
+    if text is None or text.strip() == "":
         return 0
-    return len(tuple(t for t in s.split() if t))
+
+    tokenizer = tiktoken.encoding_for_model("gpt-4")
+    tokenized_text = tokenizer.encode(text)
+    return len(tokenized_text)
